@@ -14,6 +14,7 @@ languageCode = "en"
 language = "en"
 theme = "vncnt-hugo"
 title = "Pinetree"
+googleAnalytics = "G-MMJ028THSL"
 
 [permalinks]
   fixed = ":title/"
@@ -32,7 +33,7 @@ title = "Pinetree"
 
   [params.contact]
     github = "https://github.com/pinetreetoken"
-    #instagram = "https://instagram.com/jdoe"
+    instagram = "https://instagram.com/pinetreetoken"
     twitter = "https://twitter.com/pinetreetoken"
     
     # You may use (inline) tables for more versatility
